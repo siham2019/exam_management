@@ -1,5 +1,8 @@
-# exam management system for university computer science departement
+<h1> exam management system for university computer science department </h1>
 
-actors : head 
+actors : head of department,students,teachers
 
 functionality: 
+
+1- "gerer ressource" :
+actor :
