@@ -1,1 +1,5 @@
-# exam management system for university
+# exam management system for university computer science departement
+
+actors : head 
+
+functionality: 
