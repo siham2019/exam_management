@@ -33,9 +33,13 @@
 
 
   </li>
+
+  <h2>some screenshots :</h2>
 <img src="Capture d’écran (127).png" />
 
 <img src="Capture d’écran (129).png" />
 <img src="Capture d’écran (37).png" />
 <img src="Capture d’écran (130).png" />
 </ol>
+
+  
