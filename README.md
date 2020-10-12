@@ -1,1 +1,1 @@
-# exam_management
+# exam management system for university
